@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="layout_pielegniarki">#9932CD</color>
+    <color name="czcionka">#FFFFFF</color>
+<color name="nurse">#9999FF</color>
+</resources>
